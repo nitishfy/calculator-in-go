@@ -1,6 +1,6 @@
 pipeline {
   agent any
-  /*stages {
+  stages {
     stage('dev') {
       steps {
         sh 'go test ./...'
@@ -9,3 +9,7 @@ pipeline {
 
   }
 }
+vkjsndvnds
+sdvnkjsnv
+jnvdsnvjkds
+nvjsdnk
